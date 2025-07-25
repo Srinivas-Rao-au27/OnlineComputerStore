@@ -246,9 +246,9 @@ If you encounter any issues:
 **Built with ❤️ using PHP, MySQL, and Bootstrap**
 
 
-student name and ID 
+Student name and ID 
 Abinidhi Srinivas Rao 249426560
-bharti panwar 
-mohit 
-prachi
+Bharti Panwar 239480440 
+Mohit Mainak 249484890   
+Prachi Patel  24947010
 
